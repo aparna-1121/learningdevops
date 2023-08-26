@@ -1,2 +1,6 @@
 git add
 git clone
+git pull origin main
+git init
+git log
+git loh --oneline
